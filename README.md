@@ -1,2 +1,3 @@
 # GESTURE-DETECTION
 Hand gesture detection to control media player
+Media  player  has  become  one  of  the  fundamental parts  of  our  daily  lives.  There  are  lot  of  critical situations  in  controlling  media  player  where  some people don’t  have experience  of  using  keyboard  and mouse in computer to control media player. We have come up with a small part of such problem to make it easier and  convenient to everyone  who are  not able to use keyboard and mouse in computer using image processing  technology  and  appropriate  library commands to control keyboard.  The  main  objective  of  the  system  is  to  design  and develop a Hand Gesture Recognition System Controlling on Media  player  by  making  use  of OpenCV  and  Pyautogui  library.
